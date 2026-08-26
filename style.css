@@ -1,0 +1,12 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orchid;
+}
+.highlight {
+    background-color: grey;
+    font-weight: bold;
+}
+#judul-utama {
+    color: aqua;
+    text-align: center;
+}
