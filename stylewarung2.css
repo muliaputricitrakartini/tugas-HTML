@@ -1,0 +1,51 @@
+/* Sector element */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(236, 182, 236);
+}
+
+h1 {
+    color: white;
+    background-color: rgb(199, 94, 159);
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(199, 94, 159);
+}
+
+/* selector class */
+.menu {
+    background-color: white;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.harga {
+    color: rgb(1, 117, 250);
+    font-weight: bold;
+}
+
+/* selector id */
+#pesan {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* selector element*/
+input {
+    padding: 8px;
+    margin: 5px;
+}
+
+/* selector element */
+button {
+    background-color: rgb(199, 94, 159);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
