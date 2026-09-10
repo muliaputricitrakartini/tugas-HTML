@@ -1,0 +1,33 @@
+.kartuproduk1{
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(206, 250, 200);
+    border-radius: 20px;
+    margin: 30px;
+    background-color: rgb(138, 175, 166);
+    text-align: center;
+    color: rgb(4, 80, 56);
+    box-shadow: 0 4px 15px rgb(78, 121, 108);
+}
+.kartuproduk2{
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(247, 189, 247);
+    border-radius: 20px;
+    margin: 30px;
+    background-color: rgb(200, 158, 240);
+    text-align: center;
+    color: rgb(116, 87, 116);
+    box-shadow: 0 4px 15px rgb(97, 77, 116);
+}
+.kartuproduk3{
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(133, 175, 252);
+    border-radius: 20px;
+    margin: 30px;
+    background-color: rgb(30, 91, 184);
+    text-align: center;
+    color: rgb(188, 189, 192);
+    box-shadow: 0 4px 15px rgb(8, 125, 221);
+}
